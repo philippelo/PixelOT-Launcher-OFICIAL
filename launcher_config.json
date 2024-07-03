@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/philippelo/PixelOT-Launcher-OFICIAL/releases/download/pixelotclient/PixelOT Client.zip",
+	"newClientUrl" : "https://github.com/philippelo/PixelOT-Launcher-OFICIAL/releases/download/pixelotclient/PixelOT.Client.zip",
 	"clientExecutable": "client.exe"
 }
