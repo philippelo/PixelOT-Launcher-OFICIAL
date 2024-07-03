@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "13.32.03",
+	"clientVersion": "13.40.01",
 	"launcherVersion": "20.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/philippelo/PixelOT-Launcher-OFICIAL/releases/download/pixelotclient/PixelOT-Portable13.32.zip",
+	"newClientUrl" : "https://github.com/philippelo/PixelOT-Launcher-OFICIAL/releases/download/pixelotclient/PixelOT Client.zip",
 	"clientExecutable": "client.exe"
 }
