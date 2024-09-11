@@ -9,8 +9,8 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "17.00.0",
-	"launcherVersion": "104.0",
+	"clientVersion": "18.00.0",
+	"launcherVersion": "109.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
